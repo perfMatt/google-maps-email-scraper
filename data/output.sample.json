@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Sample Restaurant",
+        "address": "123 Main St, New York, NY 10001",
+        "phone": "+1 (555) 123-4567",
+        "website": "https://samplerestaurant.com",
+        "emails": ["contact@samplerestaurant.com"],
+        "rating": 4.5,
+        "reviewsCount": 120,
+        "socialMedia": {
+            "facebook": ["https://facebook.com/samplerestaurant"],
+            "instagram": ["https://instagram.com/samplerestaurant"]
+        }
+    }
+]
